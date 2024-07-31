@@ -1,5 +1,5 @@
 # Visualizing-and-forecasting-of-stock-prices-using-dash
-# Stock Information Dashboard
+
 
 This is a Dash-based web application that provides stock information and predicts stock prices using historical data.
 
