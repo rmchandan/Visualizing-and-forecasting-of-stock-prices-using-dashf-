@@ -1,9 +1,4 @@
-# -- coding: utf-8 --
-"""
-Created on Fri Nov 24 14:10:57 2023
 
-@author: DELL
-"""
 
 import dash
 from dash import dcc, html
